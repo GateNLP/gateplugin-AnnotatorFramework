@@ -26,7 +26,7 @@ import java.util.Map;
 
 /**
  *
- * @author Johann Petrak <johann.petrak@gmail.com>
+ * @author Johann Petrak &lt;johann.petrak@gmail.com&gt;
  */
 public class Utils {
   
@@ -65,7 +65,7 @@ public class Utils {
   /**
    * Split a command string into the command and parameters
    * 
-   * @param command
+   * @param command the command to split
    * @return a list containing the command and all parameters
    */
   public static List<String> splitCommand(String command) {

@@ -39,7 +39,7 @@ import java.io.ByteArrayOutputStream;
 /**
  * Small wrapper around the Format JSON exporter to simplify conversion
  * 
- * @author Johann Petrak <johann.petrak@gmail.com>
+ * @author Johann Petrak &lt;johann.petrak@gmail.com&gt;
  */
 public class JsonConverter {
   FeatureMap options;
