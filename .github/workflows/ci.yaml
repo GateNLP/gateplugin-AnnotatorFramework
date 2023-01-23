@@ -17,4 +17,6 @@ jobs:
     uses: GateNLP/gate-top/.github/workflows/standard-module.yml@master
     with:
       deploy_site_to_pages: false
+      # Full rather than shallow clone
+      fetch_depth: "0"
     secrets: inherit
